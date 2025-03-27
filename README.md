@@ -8,6 +8,6 @@ Foi seito uma análise de séries temporais que está no arquivo demanda.ipynb
 A maiorias das bibliotecas utilizadas estão no requirements.txt
 
 A bibliotema pmdarima foi instalada utilizando conda
-'$ conda config --add channels conda-forge
+"$ conda config --add channels conda-forge
 $ conda config --set channel_priority strict
-$ conda install pmdarima'
+$ conda install pmdarima"
